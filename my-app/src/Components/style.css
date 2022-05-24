@@ -1,0 +1,30 @@
+
+
+.avatar{
+    height: 80px;
+  width: 80px;
+  background-color: gray;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 1cm;
+}
+span{
+    color: white;
+    display: block;
+    margin-left: 2.3cm;
+    margin-top: 15px;
+}
+
+.small{
+    display: block;
+    margin:0 auto;
+    text-align: center;
+    margin-top: 1cm;
+}
+
+.data{
+    display: inline;
+    margin-left: 2cm;
+    margin-bottom: 1cm;
+}
